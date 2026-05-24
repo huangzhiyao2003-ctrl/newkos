@@ -1,0 +1,5381 @@
+{
+  "segment_list": [
+    {
+      "note_segment": "kos",
+      "label": "KOS笔记",
+      "note_count": 3093,
+      "description": "基于新消耗表中是否KOS笔记=1 的历史笔记生成"
+    },
+    {
+      "note_segment": "non_kos",
+      "label": "非KOS笔记",
+      "note_count": 2203,
+      "description": "基于新消耗表中是否KOS笔记=0 的历史笔记生成"
+    }
+  ],
+  "spu_list": [
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "priority": "P0",
+      "recommendation_score": 92.66,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "priority": "P0",
+      "recommendation_score": 88.39,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "priority": "P0",
+      "recommendation_score": 83.64,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "priority": "P2",
+      "recommendation_score": 43.82,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "priority": "P3",
+      "recommendation_score": 34.79,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "priority": "P3",
+      "recommendation_score": 31.53,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "priority": "P3",
+      "recommendation_score": 28.83,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "priority": "P3",
+      "recommendation_score": 26.25,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "priority": "P3",
+      "recommendation_score": 24.35,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "priority": "P3",
+      "recommendation_score": 16.36,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "priority": "P3",
+      "recommendation_score": 15.88,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "priority": "P3",
+      "recommendation_score": 8.72,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    }
+  ],
+  "content_type_list": [
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "priority": "P0",
+      "recommendation_score": 89.65,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "预约咨询类",
+      "priority": "P0",
+      "recommendation_score": 78.03,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "priority": "P1",
+      "recommendation_score": 61.3,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "案例效果类",
+      "priority": "P1",
+      "recommendation_score": 60.47,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "价格决策类",
+      "priority": "P1",
+      "recommendation_score": 57.26,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "priority": "P2",
+      "recommendation_score": 45.07,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "priority": "P2",
+      "recommendation_score": 43.6,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "价格决策类",
+      "priority": "P2",
+      "recommendation_score": 42.31,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "案例效果类",
+      "priority": "P2",
+      "recommendation_score": 38.67,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 34.43,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 29.64,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 28.3,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 28.02,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 26.95,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 26.65,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 26.35,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 25.62,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 25.36,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 24.75,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 23.78,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 23.13,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 22.42,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 21.6,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 21.25,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 20.44,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 20.12,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 19.9,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 19.44,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 18.81,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 18.79,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 17.96,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 15.76,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 14.97,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 14.91,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 14.56,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 14.38,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 14.1,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 14.09,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 13.72,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 12.99,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 12.16,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 11.27,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 10.84,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 10.32,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 9.74,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 9.54,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 9.08,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 8.79,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 8.62,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 8.52,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 8.42,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 8.21,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 8.1,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 7.71,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 7.7,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 7.57,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 7.55,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 6.83,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 6.68,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 6.64,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "预约咨询类",
+      "priority": "P3",
+      "recommendation_score": 4.9,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 4.87,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "价格决策类",
+      "priority": "P3",
+      "recommendation_score": 4.7,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 4.16,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 3.29,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "priority": "P3",
+      "recommendation_score": 3.08,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "避坑提醒类",
+      "priority": "P3",
+      "recommendation_score": 3.06,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "案例效果类",
+      "priority": "P3",
+      "recommendation_score": 2.21,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "priority": "P3",
+      "recommendation_score": 1.53,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    }
+  ],
+  "topic_list": [
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复项目科普",
+      "priority": "P0",
+      "recommendation_score": 81.49,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "预约咨询类",
+      "topic": "正畸面诊预约",
+      "priority": "P0",
+      "recommendation_score": 78.03,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "案例效果类",
+      "topic": "正畸案例效果",
+      "priority": "P1",
+      "recommendation_score": 69.62,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸嘴凸人群",
+      "priority": "P1",
+      "recommendation_score": 57.48,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "价格决策类",
+      "topic": "正畸价格/费用",
+      "priority": "P1",
+      "recommendation_score": 57.26,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "价格决策类",
+      "topic": "牙贴面/美学修复价格/费用",
+      "priority": "P2",
+      "recommendation_score": 45.59,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "案例效果类",
+      "topic": "牙贴面/美学修复案例效果",
+      "priority": "P2",
+      "recommendation_score": 40.58,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "预约咨询类",
+      "topic": "正畸面诊预约",
+      "priority": "P2",
+      "recommendation_score": 37.29,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 31.96,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸项目科普",
+      "priority": "P3",
+      "recommendation_score": 28.7,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "价格决策类",
+      "topic": "种植牙价格/费用",
+      "priority": "P3",
+      "recommendation_score": 28.02,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "预约咨询类",
+      "topic": "种植牙面诊预约",
+      "priority": "P3",
+      "recommendation_score": 26.27,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "价格决策类",
+      "topic": "种植牙价格/费用",
+      "priority": "P3",
+      "recommendation_score": 25.66,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合蛀牙人群",
+      "priority": "P3",
+      "recommendation_score": 25.09,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 24.65,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "避坑提醒类",
+      "topic": "正畸避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 23.85,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 23.41,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 22.32,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "预约咨询类",
+      "topic": "牙贴面/美学修复面诊预约",
+      "priority": "P3",
+      "recommendation_score": 21.73,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "避坑提醒类",
+      "topic": "牙贴面/美学修复避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 20.56,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "价格决策类",
+      "topic": "正畸价格/费用",
+      "priority": "P3",
+      "recommendation_score": 20.3,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "价格决策类",
+      "topic": "牙贴面/美学修复价格/费用",
+      "priority": "P3",
+      "recommendation_score": 20.12,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "预约咨询类",
+      "topic": "种植牙面诊预约",
+      "priority": "P3",
+      "recommendation_score": 18.79,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙项目科普",
+      "priority": "P3",
+      "recommendation_score": 18.72,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 17.21,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 17.18,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合项目科普",
+      "priority": "P3",
+      "recommendation_score": 17.01,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 16.91,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 16.79,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 16.74,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 16.29,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复蛀牙人群",
+      "priority": "P3",
+      "recommendation_score": 16.27,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管蛀牙人群",
+      "priority": "P3",
+      "recommendation_score": 15.9,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "案例效果类",
+      "topic": "种植牙案例效果",
+      "priority": "P3",
+      "recommendation_score": 15.01,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "避坑提醒类",
+      "topic": "洗牙/补牙/根管避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 14.73,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙蛀牙人群",
+      "priority": "P3",
+      "recommendation_score": 14.53,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 14.43,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "案例效果类",
+      "topic": "儿牙/早矫案例效果",
+      "priority": "P3",
+      "recommendation_score": 14.38,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "避坑提醒类",
+      "topic": "种植牙避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 13.79,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 13.65,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "避坑提醒类",
+      "topic": "儿牙/早矫避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 13.4,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "价格决策类",
+      "topic": "洗牙/补牙/根管价格/费用",
+      "priority": "P3",
+      "recommendation_score": 13.06,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸综合选题",
+      "priority": "P3",
+      "recommendation_score": 13.0,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "预约咨询类",
+      "topic": "牙贴面/美学修复面诊预约",
+      "priority": "P3",
+      "recommendation_score": 12.99,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "priority": "P3",
+      "recommendation_score": 12.94,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复地包天人群",
+      "priority": "P3",
+      "recommendation_score": 12.87,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管项目科普",
+      "priority": "P3",
+      "recommendation_score": 12.81,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 12.58,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫蛀牙人群",
+      "priority": "P3",
+      "recommendation_score": 12.37,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸地包天人群",
+      "priority": "P3",
+      "recommendation_score": 12.19,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 12.18,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 12.03,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "价格决策类",
+      "topic": "口腔综合价格/费用",
+      "priority": "P3",
+      "recommendation_score": 11.98,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 11.89,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合儿童人群",
+      "priority": "P3",
+      "recommendation_score": 11.61,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙老人人群",
+      "priority": "P3",
+      "recommendation_score": 11.39,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 11.29,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "priority": "P3",
+      "recommendation_score": 11.27,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 11.16,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "避坑提醒类",
+      "topic": "口腔综合避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 10.85,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "案例效果类",
+      "topic": "牙贴面/美学修复案例效果",
+      "priority": "P3",
+      "recommendation_score": 10.84,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "priority": "P3",
+      "recommendation_score": 10.67,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸项目科普",
+      "priority": "P3",
+      "recommendation_score": 10.52,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "预约咨询类",
+      "topic": "口腔综合面诊预约",
+      "priority": "P3",
+      "recommendation_score": 10.51,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 9.8,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 9.74,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "案例效果类",
+      "topic": "种植牙案例效果",
+      "priority": "P3",
+      "recommendation_score": 9.74,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "价格决策类",
+      "topic": "口腔综合价格/费用",
+      "priority": "P3",
+      "recommendation_score": 9.54,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "预约咨询类",
+      "topic": "口腔综合面诊预约",
+      "priority": "P3",
+      "recommendation_score": 9.08,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复项目科普",
+      "priority": "P3",
+      "recommendation_score": 9.07,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 8.97,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸儿童人群",
+      "priority": "P3",
+      "recommendation_score": 8.9,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸儿童人群",
+      "priority": "P3",
+      "recommendation_score": 8.85,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "案例效果类",
+      "topic": "正畸案例效果",
+      "priority": "P3",
+      "recommendation_score": 8.79,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 8.64,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "避坑提醒类",
+      "topic": "种植牙避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 8.62,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫儿童人群",
+      "priority": "P3",
+      "recommendation_score": 8.6,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "预约咨询类",
+      "topic": "儿牙/早矫面诊预约",
+      "priority": "P3",
+      "recommendation_score": 8.56,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 8.54,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "案例效果类",
+      "topic": "洗牙/补牙/根管案例效果",
+      "priority": "P3",
+      "recommendation_score": 8.53,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "案例效果类",
+      "topic": "口腔综合案例效果",
+      "priority": "P3",
+      "recommendation_score": 8.45,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "价格决策类",
+      "topic": "洗牙/补牙/根管价格/费用",
+      "priority": "P3",
+      "recommendation_score": 8.42,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 8.4,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 8.39,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管儿童人群",
+      "priority": "P3",
+      "recommendation_score": 8.28,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "预约咨询类",
+      "topic": "洗牙/补牙/根管面诊预约",
+      "priority": "P3",
+      "recommendation_score": 8.21,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 8.14,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 8.06,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 7.93,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 7.76,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫儿童人群",
+      "priority": "P3",
+      "recommendation_score": 7.66,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 7.57,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫地包天人群",
+      "priority": "P3",
+      "recommendation_score": 7.52,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合牙疼人群",
+      "priority": "P3",
+      "recommendation_score": 7.52,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 7.37,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 7.36,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 7.34,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 7.27,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸地包天人群",
+      "priority": "P3",
+      "recommendation_score": 7.15,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 7.13,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 7.08,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 6.89,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "预约咨询类",
+      "topic": "洗牙/补牙/根管面诊预约",
+      "priority": "P3",
+      "recommendation_score": 6.87,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "避坑提醒类",
+      "topic": "牙贴面/美学修复避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 6.83,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "避坑提醒类",
+      "topic": "洗牙/补牙/根管避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 6.68,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫地包天人群",
+      "priority": "P3",
+      "recommendation_score": 6.5,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合儿童人群",
+      "priority": "P3",
+      "recommendation_score": 6.42,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 6.4,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 6.18,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙深覆合人群",
+      "priority": "P3",
+      "recommendation_score": 6.11,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合项目科普",
+      "priority": "P3",
+      "recommendation_score": 6.09,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙儿童人群",
+      "priority": "P3",
+      "recommendation_score": 5.9,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙地包天人群",
+      "priority": "P3",
+      "recommendation_score": 5.74,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 5.68,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "topic": "口腔综合牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 5.6,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 5.43,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸牙缝人群",
+      "priority": "P3",
+      "recommendation_score": 5.43,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 5.31,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 5.25,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "预约咨询类",
+      "topic": "儿牙/早矫面诊预约",
+      "priority": "P3",
+      "recommendation_score": 4.9,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "避坑提醒类",
+      "topic": "口腔综合避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 4.87,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 4.76,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "价格决策类",
+      "topic": "儿牙/早矫价格/费用",
+      "priority": "P3",
+      "recommendation_score": 4.7,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙项目科普",
+      "priority": "P3",
+      "recommendation_score": 4.54,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙老人人群",
+      "priority": "P3",
+      "recommendation_score": 4.26,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "topic": "口腔综合缺牙人群",
+      "priority": "P3",
+      "recommendation_score": 4.16,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "价格决策类",
+      "topic": "儿牙/早矫价格/费用",
+      "priority": "P3",
+      "recommendation_score": 3.87,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 3.51,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管项目科普",
+      "priority": "P3",
+      "recommendation_score": 3.48,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 3.37,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合嘴凸人群",
+      "priority": "P3",
+      "recommendation_score": 3.12,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复龅牙人群",
+      "priority": "P3",
+      "recommendation_score": 3.08,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "避坑提醒类",
+      "topic": "正畸避坑提醒",
+      "priority": "P3",
+      "recommendation_score": 3.06,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "priority": "P3",
+      "recommendation_score": 2.63,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "案例效果类",
+      "topic": "口腔综合案例效果",
+      "priority": "P3",
+      "recommendation_score": 2.21,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，样本出现频次较高，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫牙疼人群",
+      "priority": "P3",
+      "recommendation_score": 2.21,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸地包天人群",
+      "priority": "P3",
+      "recommendation_score": 2.02,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸儿童人群",
+      "priority": "P3",
+      "recommendation_score": 1.97,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "topic": "口腔综合儿童人群",
+      "priority": "P3",
+      "recommendation_score": 1.77,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫牙黄人群",
+      "priority": "P3",
+      "recommendation_score": 1.53,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "topic": "洗牙/补牙/根管蛀牙人群",
+      "priority": "P3",
+      "recommendation_score": 1.32,
+      "recommendation_reason": "历史跑量能力相对较强，历史内容反馈有可用记录，建议结合真实素材继续测试。"
+    }
+  ],
+  "formulas": [
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "第一批做牙贴面的人，【某口腔机构】怎样了？",
+        "同样2w➕你做的牙齿贴面和别人区别在哪❓",
+        "【某医生】｜广州 【某口腔机构】牙齿贴面，可以先看这一篇"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "预约咨询类",
+      "topic": "正畸面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "正畸仅5800❗️剩下的钱自己花",
+        "成都【某口腔机构】整牙补贴2000，冲鸭✨",
+        "合肥整牙人速存！牙套闭眼入攻略！不踩坑"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "案例效果类",
+      "topic": "正畸案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "看似整齐的牙齿，其实是咬合错误",
+        "【某口腔机构】想人中不显老，【某口腔机构】矫正控根内收是重点",
+        "MSE【某口腔机构】扩弓|地包天，改善鼻基底凹陷"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸嘴凸人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "测测你是哪一种“【某口腔机构】”❓",
+        "一点一点收回的【某口腔机构】【某口腔机构】，真少不了控根内收",
+        "【某口腔机构】是牙性or【某口腔机构】？其实大多数的都是……"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "价格决策类",
+      "topic": "正畸价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "【必看】📍【某口腔机构】成都【某口腔机构】全新价格表！",
+        "一键查询 【某口腔机构】江浙沪【某口腔机构】最新报价",
+        "【某口腔机构】5800💰正畸优惠可真要接住啦❗"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "价格决策类",
+      "topic": "牙贴面/美学修复价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "【某口腔机构】❓牙贴面价格表❗️",
+        "牙贴面【某口腔机构】材质💰26年价格更新（附案例",
+        "【某口腔机构】【某口腔机构】牙贴面价格盘点，哪个是你的pick❓"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "案例效果类",
+      "topic": "牙贴面/美学修复案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "龅牙，收你来了｜牙贴面大改小内收‼️",
+        "26年牙贴面价格（附真实案例",
+        "惊！原来瘪嘴笑，靠牙贴面就能拯救！"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "预约咨询类",
+      "topic": "正畸面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "广州整牙-6800❗剩下的钱自己花💰",
+        "39年正畸丨【某口腔机构】整牙面诊预约通道开启！",
+        "整牙新手不迷路，正畸攻略速来自取！"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "你【某口腔机构】【某口腔机构】可不可以考虑下我的感受",
+        "0.1mm 【某口腔机构】牙贴面太牛！牙齿瑕疵一键消除！",
+        "“丑牙”星人狂喜！牙贴面逆袭气质小白牙"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "听我一句劝‼️整牙这么选才能不翻车",
+        "正畸内收改善侧貌，其实对你来说不合适",
+        "拔牙矫正非万能！牙弓宽度、高度才是抗塌点"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "价格决策类",
+      "topic": "种植牙价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "合肥人注意！本月种牙补贴价公布，速收藏！",
+        "种牙怕被坑？怕多花钱？一查全搞定！🔍",
+        "佛山缺牙党别划走❗【某口腔机构】医院种牙真香"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "预约咨询类",
+      "topic": "种植牙面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "缺牙【某口腔机构】新技术！谁还不知道！",
+        "牙齿缺失新技术来了！不种牙【某口腔机构】牙！",
+        "【某口腔机构】怎么区分集采款/悦锆/亲水瑞锆？"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "价格决策类",
+      "topic": "种植牙价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "8年【某口腔机构】人揭秘❗4个种植牙内幕⚠️看完再做",
+        "种植牙忠告！业内人带你顺利上岸✅",
+        "种植牙不问清楚这5点，冤枉钱有的你花😅"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合蛀牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "牙医忠告：别盲目拔智齿！"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "1w到10w的牙贴面区别在哪里❓无广·实拍",
+        "南京|预算有限？w元也能Get博主同款笑容",
+        "4款微笑线，牙贴面设计的重心‼️你适合哪款⁉️"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "避坑提醒类",
+      "topic": "正畸避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "【某口腔机构】or私立❓【某口腔机构】医院怎么选✅新手攻略",
+        "球球了‼️没想清楚这六大后果千万别去整牙",
+        "近期想【某口腔机构】的姐妹请狂刷这篇攻略 ❗❗"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "上海太超前了！补门牙缝隙，【某口腔机构】牙",
+        "牙贴面 | 【某口腔机构】牙 高效局部贴面 关闭牙缝",
+        "牙贴面试戴｜换你自然高级感“妈生牙”"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙缺牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "缺牙新技术！后悔没早点知道3D种植导航！",
+        "6号牙缺失不种行不行？",
+        "【某口腔机构】缺牙，为什么我建议做吸附性义齿？"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "预约咨询类",
+      "topic": "牙贴面/美学修复面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "【某口腔机构】年牙贴面材料怎么选❓没看就做还是错了",
+        "【某口腔机构】0.1mm牙贴面➕1v1微笑线设计➕试戴调整",
+        "😁放肆笑，全口牙齿一口价~超高审美。"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "避坑提醒类",
+      "topic": "牙贴面/美学修复避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "⚠️警惕❗️做牙贴面的人几乎都踩过这个坑",
+        "都是坑！【某口腔机构】牙贴面3大骗局，选对不踩坑",
+        "⚠️揭秘❗️牙齿贴面那些内行人才会告诉.."
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "价格决策类",
+      "topic": "正畸价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "反复劝说小姑娘不要拔牙正畸",
+        "真心建议女孩子不要瞎整牙‼️",
+        "【某口腔机构】前做好这3件事，想翻车都难‼️"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "价格决策类",
+      "topic": "牙贴面/美学修复价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "牙贴面价格已经这么低了吗？",
+        "2W+【某口腔机构】牙贴面，蝉翼级【某口腔机构】贴面，通透自然",
+        "2W+拥有0.1mm【某口腔机构】“呼吸”贴面，自然通透！"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "预约咨询类",
+      "topic": "种植牙面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "江浙沪舒适化种植牙不用担心疼，附【某口腔机构】报价",
+        "5k+在广州种【某品牌】🦷这【某口腔机构】谁懂啊！",
+        "在成都，【某口腔机构】种牙补贴真正香！"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "【某口腔机构】【某口腔机构】vs私立？听我一句劝！",
+        "花了5w买来的种植牙血泪教训💥超全干货✅",
+        "种植牙必问！这5个易错点一次讲清楚！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸嘴凸人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "",
+        "【必看】📍江浙沪【某口腔机构】【某口腔机构】全新价格表！",
+        "太香了8️⃣9️⃣9️⃣9️⃣杭州正畸"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "mockup【某口腔机构】牙试戴，现场体验直观感受！！",
+        "2w多，根据脸型1v1设计的牙贴面值不值❓",
+        "一篇帖子让你了解，牙贴面适合哪些人群?"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "",
+        "杭州人速冲❗【某口腔机构】还不到1w！",
+        "写给对“全麻看牙”既害怕又期待的人"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙缺牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "上海缺牙修复新技术！不用受罪！谁还不知道",
+        "【某口腔机构】新技术！缺牙不种，松牙不拔也能救",
+        "从镶牙到种植牙，再到...种牙这么舒适了？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸嘴凸人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "不拔牙矫正，真的会做成龅牙下巴后缩？",
+        "用颌位重建改变【某口腔机构】、深覆盖、偏颌",
+        "重度露龈笑，早期干预很重要！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸深覆合人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "【某口腔机构】【某口腔机构】尽量不拔牙，【某口腔机构】必看！",
+        "低角【某口腔机构】颏唇沟深！如何内收不瘪嘴？",
+        "闭锁型【某口腔机构】都是大美女，还要正畸吗❓"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸牙黄人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "蝴蝶牙+牙齿外翻❓不矫正也能变整齐❗️"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复蛀牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "牙齿烂了不用拔 做个嵌体塞进去！",
+        "做牙贴面之后到底会不会发臭变黑？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管蛀牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "牙齿深龋，根管不是唯一解决方案",
+        "看看你的龋齿属于哪个阶段",
+        "什么是嵌体呢？不想磨牙选它！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "案例效果类",
+      "topic": "种植牙案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "正位智齿先别拔！智齿牵引，立省种牙💰！",
+        "牙齿缺失这样修复 花小钱办大事！",
+        "后槽牙缺失多年？【某口腔机构】义齿修复不种牙。"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "避坑提醒类",
+      "topic": "洗牙/补牙/根管避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "不要轻易拔任何牙",
+        "",
+        "🚨烂牙警告：警惕牙齿上出现的黑线"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙蛀牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "不用磨牙做牙冠！嵌体修复新技术！",
+        "终于有人把 如何看牙片 ，一次性讲清楚了！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复嘴凸人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "深v微笑线的魅力后知后觉 笑容甜美有感染力",
+        "露龈笑贴面修复正确思路来了，土气拜拜！",
+        "江浙沪牙贴面｜不带牙套，2步【某口腔机构】收收收！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "案例效果类",
+      "topic": "儿牙/早矫案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "【某口腔机构】下巴后缩，这类用TB矫治器无效？",
+        "8️⃣岁不管颌骨发育，可能耽误颜值！",
+        "【某口腔机构】最后机会，上颌骨生长发育在 10 岁停止"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "避坑提醒类",
+      "topic": "种植牙避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "2分钟讲清楚：【某口腔机构】不要乱选🚫",
+        "做种植牙，一条视频就够了，不花冤枉钱❌",
+        "太超前了！种牙新技术！后悔种牙早了！"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合牙缝人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "上海大牙缝修复太超前了！国内新技术！",
+        "快来看看自己黑三角到什么地步了❗"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "避坑提醒类",
+      "topic": "儿牙/早矫避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "家长快速分清高/低角面型，你孩子是哪种？",
+        "张嘴呼吸≠腺样体面容",
+        "【某口腔机构】下巴后缩，4-12岁是矫正黄金期"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "价格决策类",
+      "topic": "洗牙/补牙/根管价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "坐标成都，你发牙片我报价！",
+        "直接点，在成都带牙片问价格！",
+        "了解拔智齿的全过程，看完你就不怕了"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸综合选题",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "给孩子做正畸，是真舍不得拔牙"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "预约咨询类",
+      "topic": "牙贴面/美学修复面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "牙齿贴面【某口腔机构】全口/16颗牙齿贴面到底有多值",
+        "这样的牙齿贴面在江浙沪算是什么水平？",
+        "琥珀瓷=高级“妈生感”"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "蛀牙幸好没有补牙 嵌体修复新技术",
+        "工作10年，再去看这种牙齿，我见一个劝一个",
+        "🦷 补牙前，这些事越早知道越安心！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复地包天人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "上海牙贴面｜改善下巴前凸地包天有救了❗️"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "全麻｜一次搞定两颗阻生智齿🦷✨",
+        "全麻下，多颗补牙+智齿拔除",
+        "根管，全麻下为什么能做到一次性完成？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复嘴凸人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "蝴蝶牙逆袭！富家千金感从笑容开始~"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫蛀牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "科普｜【某口腔机构】全麻【某口腔机构】治疗，选择吸入式会更好",
+        "孩子牙齿重度拥挤，警惕三个“不可逆”伤害"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸地包天人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "3D动画演示|TB矫治器如何导出自然下巴",
+        "低角地包天，不动骨，【某口腔机构】牙套也能搞定？",
+        "【某口腔机构】地包天！【某口腔机构】整牙能变饱满直面型吗？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸深覆合人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "露龈笑|什么是压低前牙？如何纠正露龈笑？",
+        "近期想整牙的，【某口腔机构】选择攻略‼️",
+        "这两种下巴后缩，是有办法出来的！颌位重建"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫缺牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【某口腔机构】牙齿“血运重建”到底是什么？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "价格决策类",
+      "topic": "口腔综合价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "❓预算有限，3w+以下的牙贴面怎么选？",
+        "上海牙缝大修复太超前了！怎么没早点知道！",
+        "深扒【某口腔机构】种植牙，从千元到万元的差别"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸龅牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "没人说嘛，其实正畸的可怕之处在于",
+        "🔥 整牙人必看！【某口腔机构】8种常见错颌问题",
+        "南京矫正丨为什么凸嘴内收要适度？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合儿童人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "沈阳【某口腔机构】医院｜【某口腔机构】欢迎你来看牙🦷",
+        "牙齿拥挤≠拔牙矫正！你的牙齿可能白拔了❌"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙老人人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "业内人说种植牙选【某口腔机构】or私立？（附文字省流版",
+        "全口【某口腔机构】种植牙如何选？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复龅牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "上海牙贴面｜终于和凸嘴龅牙的自己告别了！",
+        "爆火🔥的小兔牙贴面 减龄思路大公开❗️",
+        "离谱…20vv做了一口大龅牙……"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "杭州3M树脂补牙**元藏不住了🤩"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸龅牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "孩子口呼吸？腺样体面容？看这篇就够啦！",
+        "孩子的下巴后缩，这个年龄能“导”回来",
+        "坐标杭州，劝退过不少来矫正凸嘴的女生"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "避坑提醒类",
+      "topic": "口腔综合避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "关于口呼吸早期如何干预？",
+        "浅谈关于蛀牙补牙需要注意的三个真相",
+        "注意‼️这种情况下的『唇肌无力』👆"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "案例效果类",
+      "topic": "牙贴面/美学修复案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "杭州哪家【某口腔机构】医院靠谱💯【某口腔机构】实力说话",
+        "2w➕【某口腔机构】0.2mm牙贴面案例",
+        "透感牙贴面必修✨如何【某口腔机构】拿下全口【某口腔机构】贴面"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "舒适化全麻下一次性完成根管",
+        "全麻下、根管+补牙+嵌体修复+全口刮治",
+        "🦷牙齿相关问题找我们10%折扣"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "门牙外翻扭转怎么办？3招轻松拯救！",
+        "整牙选哪种方式？",
+        "正畸人必看！医生择优攻略"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "预约咨询类",
+      "topic": "口腔综合面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "✨【某医生】，告别【某口腔机构】恐惧✨",
+        "这几种情况，更适合选择全麻/舒适化补牙",
+        "【某医生】？看牙要跑好几趟？"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸牙缝人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "Bioclear✨改善大牙缝漏风不美观塞牙！",
+        "牙周不佳的成年人👄为什么更适合【某口腔机构】矫正",
+        "✨【谁懂牙缝大的痛！矫正重获自信笑容】"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸牙黄人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "牙不齐不想正畸，可以牙贴面解决吗？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "案例效果类",
+      "topic": "种植牙案例效果",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "沈阳种植牙｜即刻种植和传统种植的区别？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "价格决策类",
+      "topic": "口腔综合价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "扎根【某医生】16年 | 被夸爆的【某口腔机构】",
+        "种牙前要知道的事‼千万别错过😭",
+        "合肥金属自锁矫正一口价8800！"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "预约咨询类",
+      "topic": "口腔综合面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "杭州【某口腔机构】｜医保可报，看牙更划算✨",
+        "🦷武汉【某口腔机构】大揭秘，最新价格查询来啦",
+        "上海看牙的别乱跑了|摩尔就在你身边🦷"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "贴面分享|不同风格都能get兔牙虎牙",
+        "各个品牌的牙贴面，区别有哪些?",
+        "一款幼态感的微笑牙贴面！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合缺牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "套筒冠假牙，更适合中老年的缺牙人群！"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸儿童人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "头帽可以解决孩子牙齿所有问题吗？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸儿童人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "关于拔牙矫正，为什么坚持\"能保则保\"",
+        "头帽肌激动器适应症｜II类错颌适应症",
+        "孩子小下巴，8岁矫正和12岁矫正有何区别？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "案例效果类",
+      "topic": "正畸案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "10秒自测【某口腔机构】类型！快来看看你属于哪一种",
+        "【某口腔机构】必看！为什么你的脸越来越“方”？",
+        "广州凸嘴党快上车，【某口腔机构】【某口腔机构】羊毛赶紧薅"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复深覆合人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "哪类型的人适合do牙贴面❓",
+        "关闭牙缝，除了矫正，还有【某口腔机构】牙贴面！"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "避坑提醒类",
+      "topic": "种植牙避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "🫵避坑指南｜快速带你看完种植牙段位图",
+        "救命！缺牙没及时种牙，真是后悔啊💔",
+        "担心种牙预算不够？先来查询价格！"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫儿童人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "短下巴导下颌向前黄金年龄是几岁？",
+        "为什么【某口腔机构】有很多小朋友下颌后缩？",
+        "【某口腔机构】换牙期牙不齐？早干预，长大省事不拔牙"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "预约咨询类",
+      "topic": "儿牙/早矫面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "谈「腺样体」色变？完全没有必要过度焦虑！",
+        "家长必看|沉浸式体验TB矫治器给娃导下巴",
+        "沉浸式体验TB矫治器如何导下巴"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙缺牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "种植牙全流程，码住❗❗❗",
+        "种植届的两大“【某品牌】”怎么选❓别选错啦~",
+        "东莞种牙！【某口腔机构】已经这个价了💰在线查！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "案例效果类",
+      "topic": "洗牙/补牙/根管案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "全麻下根管+拔智齿：从恐惧到释然",
+        "5种【某口腔机构】问题别硬扛！全麻真能“救”大命！",
+        "【某口腔机构】【某口腔机构】 扩弓来帮忙！"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "案例效果类",
+      "topic": "口腔综合案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "12岁以上，牙齿拥挤，如何【不拔牙】矫正？",
+        "你害怕看牙吗？你了解看牙恐惧症吗？",
+        "看牙焦虑+咽反射敏感，舒适化看牙了解一下"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "价格决策类",
+      "topic": "洗牙/补牙/根管价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "北京拔智齿真实价！六百多可刷医保✨",
+        "广州补牙+洗牙，最新价格！",
+        "在【某医生】整牙📍预算1w+够吗？"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙缺牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "缺牙不想种牙？吸附性义齿了解一下",
+        "马里兰桥，缺牙修复选择之一！"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸牙缝人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "牙缝大新技术，【某口腔机构】牙！",
+        "牙缝大的朋友有福了！",
+        "牙缝大漏财？不矫正短期轻松关闭牙缝！"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管儿童人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【全麻【某口腔机构】治疗】全攻略‼️"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "预约咨询类",
+      "topic": "洗牙/补牙/根管面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "🌿真实统筹比例：10w+武汉人看牙选择",
+        "补牙账单已出，含补贴共消费98…",
+        "【某医生】整牙补贴发放🔥【某口腔机构】年全新报价"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫深覆合人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "乳牙期【某口腔机构】3度尽早干预，对照看你家娃",
+        "5岁孩子【某口腔机构】深覆盖 家长【某口腔机构】矫正黄金期！",
+        "劝退过很多来给孩子早矫的家长"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸牙缝人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "上海【某口腔机构】【某品牌】简单版/标准版差在哪"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合牙黄人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "牙贴面之后，里面的真牙会被“闷坏”吗？",
+        "📸原相机直出丨牙贴面试戴展示"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸缺牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "想正畸却怕拔牙？关键可能是「扩弓」！🦷"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫儿童人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "【某口腔机构】换牙期牙齿拥挤，到底该不该【某口腔机构】矫正？",
+        "「口呼吸」是如何一步一步影响孩子面容的？",
+        "【某口腔机构】【某医生】，不插管、不住院"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫嘴凸人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "家长注意孩子【某口腔机构】，别让孩子输在起跑线上",
+        "早矫必看丨孩子早期矫治，家长无需过度焦虑",
+        "闭锁性深覆颌，几岁矫正好？"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫地包天人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "🌟【某口腔机构】地包天｜【某口腔机构】黄金矫正期",
+        "今天不忙，🉑回答牙齿问题",
+        "【某口腔机构】\"地包天”逆袭记!上颌垫+推簧矫治器"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合牙疼人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "活髓保存术｜【某口腔机构】“原生牙”长期守护的秘密"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复深覆合人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "做了牙贴面能保持多少年？四点说清楚关键！"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸缺牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【某口腔机构】下颌后缩 先扩弓导下颌再整牙 西安正畸"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合缺牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "缺一颗牙不敢笑？【某口腔机构】义齿来救场！"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸深覆合人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "广州【某口腔机构】必看！为什么你的脸越来越“方”",
+        "🚨 紧急【某口腔机构】100名口呼吸/颌面异常【某口腔机构】~！",
+        "金属矫正VS【某口腔机构】矫正，广州正畸攻略在此💰"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸地包天人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【某口腔机构】地包天早期矫正思路，如何避免走弯路？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "不用磨牙，牙齿贴面让你的笑容更闪耀！🦷",
+        "牙缝越来越大没关系❗拯救尴尬大牙缝❗",
+        "真的不伤牙，【某口腔机构】年新款0.1mm【某口腔机构】牙贴面"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙黄人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "只要2万+极薄牙贴面，遮色+改形→妈生感",
+        "🦷【某口腔机构】牙的手工瓷贴面也太顶了！",
+        "原相机直出✨【某口腔机构】贴面试戴！自然不假白~"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复龅牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "齿凸龅牙竟然收直了！牙贴面get兔牙+虎牙！",
+        "",
+        "颠覆传统！【某口腔机构】牙的瓷贴面到底有多香？"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "预约咨询类",
+      "topic": "洗牙/补牙/根管面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "舒适化全麻看牙过程",
+        "关于害怕看牙，想和大家聊聊",
+        "在昆明拔智齿｜预约须知"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "避坑提醒类",
+      "topic": "牙贴面/美学修复避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "牙贴面|打造甜美灵动感真甜妹！颜值翻身仗",
+        "😭花2次钱才懂！3年前失败【某口腔机构】",
+        "别瞎选牙贴面！【某口腔机构】材质清单帮你避坑🚫"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "避坑提醒类",
+      "topic": "洗牙/补牙/根管避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "西安看牙的别乱跑了| 【某口腔机构】就在你身边🦷",
+        "这些阻生智齿真的很贵？一定要注意了！",
+        "看完这篇洁牙攻略，新手小白也能安心冲！"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫地包天人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "如何判断孩子有没有下颌后缩",
+        "地包天不矫正会演变成什么样子？"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合儿童人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "孩子抗拒看牙？全麻睡眠中治牙可以吗？",
+        "【某口腔机构】露龈笑什么原因？怎么矫治？一次讲清楚",
+        "【某口腔机构】全麻【某口腔机构】治疗|规范"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸深覆合人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "😁武汉整牙不踩坑！告别牙齿不齐",
+        "【某口腔机构】矫正原来只要这个价！价目表更新完毕",
+        "你的牙齿有没必要矫正？"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "项目科普类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "上海牙贴面|16颗【某口腔机构】【某口腔机构】贴面0.2mm",
+        "牙缝大闭眼冲！【某口腔机构】牙当天戴牙🔥",
+        "【某口腔机构】【某口腔机构】牙贴面！颜值逆袭从「齿」开始"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙深覆合人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "西安看牙价格一览！3步查询看牙报价💰"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "终于可以说了",
+        "7号牙，6号牙缺失，怎么办？",
+        "本来去种牙，结果让正畸？"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙儿童人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【某医生】怎么选❓看完这篇，谁也套路不到你"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙地包天人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "上海牙友🙋‍♀这家宝藏【某口腔机构】看牙真不错"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸嘴凸人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "什么情况适合【某口腔机构】？【某口腔机构】问题【某口腔机构】矫正更好？",
+        "【某口腔机构】的宝看这里🙋‍♀正畸特惠价活动来啦",
+        "北京人看牙🦷原来都推荐这家"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "topic": "口腔综合牙缝人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "局部微贴面 修复周期短 关闭牙缝少磨牙",
+        "微贴面，和门牙缝隙说拜拜！"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复牙缝人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "【某口腔机构】牙，局部瓷贴面关闭门牙牙缝！",
+        "【某口腔机构】牙关闭牙缝！局部微贴面！",
+        "一口自然高级妈生牙！"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“牙贴面/美学修复”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸牙缝人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【某口腔机构】≠美学矫正！正畸美学你了解多少？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫嘴凸人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "孩子【某口腔机构】+下巴后缩，是遗传还是后天导致？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫龅牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "骨骼软整牙快！6-12岁省下2万攻略",
+        "8岁腺样体面容，还能通过矫正改善吗？",
+        "简单判断：孩子下巴后缩了吗？👶"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "预约咨询类",
+      "topic": "儿牙/早矫面诊预约",
+      "title_formula": "【城市/项目】+【面诊/咨询入口】+【适合人群】+【低门槛行动】",
+      "title_examples": [
+        "开学季矫正❗【某口腔机构】50位有正畸需求的孩子",
+        "在【某口腔机构】📣【某口腔机构】涂氟【某口腔机构】惊喜价💥",
+        "📍天津|【某口腔机构】涂氟仅需66元💥"
+      ],
+      "body_formula": "开头：说明面诊或咨询适合解决什么问题。中间：解释面诊会看哪些信息、用户需要准备什么、如何判断方案。提醒：不承诺价格和效果。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "说明面诊能解决的问题",
+        "引导用户带着自身情况咨询"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "避坑提醒类",
+      "topic": "口腔综合避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "中科领军【某口腔机构】牙冠实测｜牙冠界的\"【某口腔机构】战衣\"",
+        "牙坏了居然还能能保住牙神经！谁懂？"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "人群症状类",
+      "topic": "正畸龅牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "江浙沪刷医保，真的省不少💰",
+        "成都【某口腔机构】🔍先查价格再做👇一键查询",
+        "全新矫牙价格公开！省钱看这儿"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "价格决策类",
+      "topic": "儿牙/早矫价格/费用",
+      "title_formula": "【城市/人群】+【项目】+【价格疑问或价格锚点】+【提醒/避坑】",
+      "title_examples": [
+        "📍【某口腔机构】 【某口腔机构】📢【某口腔机构】最新价格表来啦",
+        "被问爆的儿牙早矫！一口价15800拿下！",
+        "北京【某口腔机构】正畸捡漏价！速来薅"
+      ],
+      "body_formula": "开头：直接点出用户最关心的价格差异或费用疑问。中间：拆解影响价格的 3-5 个真实因素，如项目难度、材料、方案、复诊或维护。提醒：不要只看低价，要确认医生、方案和后续服务。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "说明价格差异来自方案、材料、难度和服务差异",
+        "价格只作为参考，避免写成确定报价"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "种植牙",
+      "content_type": "项目科普类",
+      "topic": "种植牙项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "种植牙水太深？医生不会说的种植牙真相",
+        "速看💥成都品质种植牙价格大揭秘💥",
+        "韩国种植牙才1380？💰颗颗透明价！真香了"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "种植牙",
+      "content_type": "人群症状类",
+      "topic": "种植牙老人人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "【某口腔机构】种牙怕痛怎么办？舒适化能解决",
+        "老人家89岁，可以做全口种植吗？",
+        "咽反射没办法看牙，害怕种牙怎么办？"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“种植牙”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "topic": "口腔综合缺牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "在北京看牙没选中科领军？亏了亏了🤣",
+        "武汉，【某口腔机构】预约，冠修/缺牙修复等"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "儿牙/早矫",
+      "content_type": "价格决策类",
+      "topic": "儿牙/早矫价格/费用",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【某口腔机构】上颌突+下巴后缩：腺样体面容是元凶？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸龅牙人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "姐妹们，牙齿不齐真的不要忍！",
+        "上海摩尔【某口腔机构】｜“真全包”科普",
+        "龅牙内收不矫正！牙贴面悄悄救回侧脸杀✨"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管项目科普",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "消息保真😍上海牙友看牙可以刷医保！",
+        "上海省钱看牙！拔牙、补牙、根管可医保报销"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“洗牙/补牙/根管”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫龅牙人群",
+      "title_formula": "【症状/人群】+【项目】+【是否适合/怎么选】+【提醒】",
+      "title_examples": [
+        "在杭州！带孩子做【某口腔机构】低至5000？",
+        "坐标武汉，孩子【某口腔机构】仅需￥4K＋❗"
+      ],
+      "body_formula": "开头：点出某类人群或症状的困惑。中间：说明可能原因、适合了解的项目、需要面诊确认的点。提醒：不替代医生诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“儿牙/早矫”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "项目科普类",
+      "topic": "口腔综合嘴凸人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "✨ 【某口腔机构】【某口腔机构】 | 守护你的满分笑容！"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "牙贴面/美学修复",
+      "content_type": "人群症状类",
+      "topic": "牙贴面/美学修复龅牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "西安牙凸龅牙❓牙贴面可以改善?｜磨牙吗？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "避坑提醒类",
+      "topic": "正畸避坑提醒",
+      "title_formula": "【强提醒】+【项目】+【常见误区】+【行动建议】",
+      "title_examples": [
+        "牙丑的宝子看过来，招50人试戴【某口腔机构】牙套啦❗️",
+        "【某口腔机构】下巴后缩，别错过6-12岁矫正黄金期！",
+        "🦷北京家长集合❗【某口腔机构】【某口腔机构】价格速查"
+      ],
+      "body_formula": "开头：用明确提醒指出常见误区。中间：列出 3-5 个避坑点，每一点说明为什么会影响选择。提醒：不要虚构负面案例，不做绝对化承诺。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "提醒用户关注方案、医生沟通和后续维护",
+        "语气要提醒但不要制造恐慌"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "项目科普类",
+      "topic": "洗牙/补牙/根管牙疼人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "北京靠谱且专业的【某口腔机构】医院自我介绍版！"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "口腔综合",
+      "content_type": "案例效果类",
+      "topic": "口腔综合案例效果",
+      "title_formula": "【人群/症状】+【项目】+【变化结果】+【真实记录感表达】",
+      "title_examples": [
+        "矫正前先咨询！领拍片+定制方案🦷",
+        "坐标罗浮，给娃口福",
+        "【某口腔机构】想磨牙后推？先看你是什么脸型！"
+      ],
+      "body_formula": "开头：说明适用人群或症状变化方向。中间：按问题、方案思路、注意事项拆解，不虚构真实案例和治疗结果。提醒：效果因人而异，需结合面诊。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“口腔综合”展开，不跨项目泛化",
+        "强调适合人群和变化方向",
+        "不虚构治疗前后真实案例"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "人群症状类",
+      "topic": "儿牙/早矫牙疼人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "💰360 元搞定娃一整年防蛀！涂氟随便做"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸地包天人群",
+      "title_formula": "【项目】+【用户最关心的问题】+【3-5 个判断要点】",
+      "title_examples": [
+        "西安矫牙！3步get【某口腔机构】报价！",
+        "牙齿不齐、牙缝大？【某口腔机构】矫正抄底价来了！"
+      ],
+      "body_formula": "开头：提出一个常见疑问。中间：用清单拆解概念、适合人群、流程、注意事项。提醒：避免把科普写成诊断。结尾：引导用户评论或私信补充自身情况，获取更具体的建议。",
+      "key_points": [
+        "围绕“正畸”展开，不跨项目泛化",
+        "用清单式结构降低理解成本",
+        "每个判断点都要给出解释"
+      ],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "正畸",
+      "content_type": "项目科普类",
+      "topic": "正畸儿童人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "【某口腔机构】矫正为什么这么受欢迎？因为真的香！"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "口腔综合",
+      "content_type": "人群症状类",
+      "topic": "口腔综合儿童人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "孩子的矫正黄金期！你选对时间了吗？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "non_kos",
+      "spu": "儿牙/早矫",
+      "content_type": "项目科普类",
+      "topic": "儿牙/早矫牙黄人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "暑假矫牙黄金期，【某口腔机构】【某口腔机构】好价可捡漏‼"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    },
+    {
+      "note_segment": "kos",
+      "spu": "洗牙/补牙/根管",
+      "content_type": "人群症状类",
+      "topic": "洗牙/补牙/根管蛀牙人群",
+      "title_formula": "样本不足，暂不提炼稳定公式",
+      "title_examples": [
+        "孩子有蛀牙，反正都得换牙有必要补牙吗？"
+      ],
+      "body_formula": "样本不足，暂不提炼稳定公式",
+      "key_points": [],
+      "avoid_points": [
+        "不要编造真实案例、用户反馈或治疗效果",
+        "不要编造医生资质、机构优势或品牌背书",
+        "不要编造具体价格；如需价格，只能使用用户提供或历史文本中已有的表达",
+        "不要把内容写成医疗诊断或治疗承诺"
+      ],
+      "cover_formula": "封面信息不足，无法提炼稳定公式；如封面 URL 可用，请人工查看真实画面后复用其标题长度、信息密度和素材类型。",
+      "generation_instruction": "只能基于公式、脱敏案例摘要和用户补充信息生成；不得编造品牌、医生、价格、疗效、真实案例、用户反馈或资质。"
+    }
+  ]
+}

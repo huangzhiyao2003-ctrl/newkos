@@ -1,0 +1,38 @@
+{
+  "name": "oral-kos-content-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pipeline": "python3 scripts/01_join_notes.py && python3 scripts/02_label_and_score.py && python3 scripts/03_build_formula_library.py && python3 scripts/04_generate_customer_doc.py",
+    "dev": "concurrently \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:web": "node scripts/serve-web.mjs",
+    "dev:server": "tsx server/index.ts",
+    "build": "tsc && node scripts/build-vite.mjs",
+    "start": "NODE_ENV=production tsx server/index.ts",
+    "deploy:check": "npm run build && NODE_ENV=production PORT=4173 tsx server/index.ts",
+    "test": "python3 -m unittest discover -s tests -p 'test_*.py' && tsx tests/test_api_generate.ts"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^9.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "lucide-react": "^0.468.0",
+    "postcss": "^8.4.49",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^5.4.11"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5"
+  }
+}
