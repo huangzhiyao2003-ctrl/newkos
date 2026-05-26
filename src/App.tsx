@@ -1,160 +1,134 @@
 import { useState } from "react";
 import { MobileShell } from "./components/MobileShell";
-import { CasesPage } from "./pages/CasesPage";
-import { ContentTypePage } from "./pages/ContentTypePage";
-import { GeneratePage } from "./pages/GeneratePage";
-import { HomePage } from "./pages/HomePage";
-import { SegmentPage } from "./pages/SegmentPage";
+import { ContentGeneratorPage } from "./pages/ContentGeneratorPage";
 import { StartupPlanPage } from "./pages/StartupPlanPage";
+import { TopicWorkspacePage } from "./pages/TopicWorkspacePage";
 import { TopicPage } from "./pages/TopicPage";
 import type { NoteSegment } from "./types/content";
 
-type View = "startup" | "segment" | "home" | "contentType" | "topic" | "cases" | "generate";
-type ContentView = Exclude<View, "startup">;
+type MainTab = "planning" | "generator";
+type GeneratorStep = "setup" | "topics" | "workspace";
+type WorkspaceMode = "cases" | "generate";
+type SelectedSegment = NoteSegment | "";
 
 export default function App() {
-  const [view, setView] = useState<View>("startup");
-  const [lastContentView, setLastContentView] = useState<ContentView>("segment");
-  const [noteSegment, setNoteSegment] = useState<NoteSegment>("kos");
-  const [plannedSpu, setPlannedSpu] = useState("");
+  const [mainTab, setMainTab] = useState<MainTab>("planning");
+  const [generatorStep, setGeneratorStep] = useState<GeneratorStep>("setup");
+  const [workspaceMode, setWorkspaceMode] = useState<WorkspaceMode>("cases");
+  const [selectedSegment, setSelectedSegment] = useState<SelectedSegment>("");
   const [spu, setSpu] = useState("");
   const [contentType, setContentType] = useState("");
   const [topic, setTopic] = useState("");
 
   function back() {
-    if (view === "generate" || view === "cases") setView("topic");
-    else if (view === "topic") setView("contentType");
-    else if (view === "contentType") setView(plannedSpu ? "segment" : "home");
-    else if (view === "home") setView("segment");
-    else if (view === "segment" && plannedSpu) setView("startup");
-  }
-
-  function switchMainTab(next: "startup" | "content") {
-    if (next === "startup") {
-      if (view !== "startup") setLastContentView(view as ContentView);
-      setView("startup");
-      return;
-    }
-    if (view === "startup") {
-      setView(lastContentView);
-    }
+    if (mainTab !== "generator") return;
+    if (generatorStep === "workspace") setGeneratorStep("topics");
+    else if (generatorStep === "topics") setGeneratorStep("setup");
   }
 
   const shellTabs = {
-    active: view === "startup" ? ("startup" as const) : ("content" as const),
-    onChange: switchMainTab,
+    active: mainTab === "planning" ? ("startup" as const) : ("content" as const),
+    onChange: (next: "startup" | "content") => setMainTab(next === "startup" ? "planning" : "generator"),
   };
 
-  if (view === "startup") {
+  if (mainTab === "planning") {
     return (
       <MobileShell title="口腔 KOS 起号助手" subtitle="起号规划" tabs={shellTabs}>
         <StartupPlanPage
           onUsePlan={(nextSpu) => {
-            setPlannedSpu(nextSpu);
+            setSpu(nextSpu);
+            setSelectedSegment("");
+            setContentType("");
+            setTopic("");
+            setWorkspaceMode("cases");
+            setGeneratorStep("setup");
+            setMainTab("generator");
+          }}
+        />
+      </MobileShell>
+    );
+  }
+
+  if (generatorStep === "setup") {
+    return (
+      <MobileShell title="内容生文" subtitle="选择品项和参考库" tabs={shellTabs}>
+        <ContentGeneratorPage
+          selectedSpu={spu}
+          selectedSegment={selectedSegment}
+          onSelectSpu={(nextSpu) => {
             setSpu(nextSpu);
             setContentType("");
             setTopic("");
-            setLastContentView("contentType");
-            setView("segment");
+            setWorkspaceMode("cases");
           }}
-          onSkip={() => {
-            setPlannedSpu("");
-            setSpu("");
+          onSelectSegment={(nextSegment) => {
+            setSelectedSegment(nextSegment);
             setContentType("");
             setTopic("");
-            setLastContentView("segment");
-            setView("segment");
+            setWorkspaceMode("cases");
           }}
-        />
-      </MobileShell>
-    );
-  }
-
-  if (view === "segment") {
-    return (
-      <MobileShell title="内容生文器" subtitle={plannedSpu ? `${plannedSpu} / 选择参考库` : "选择参考库"} onBack={plannedSpu ? back : undefined} tabs={shellTabs}>
-        <SegmentPage
-          onSelect={(next) => {
-            setNoteSegment(next);
-            setSpu(plannedSpu);
-            setContentType("");
+          onSelectContentType={(nextContentType) => {
+            setContentType(nextContentType);
             setTopic("");
-            const nextView = plannedSpu ? "contentType" : "home";
-            setLastContentView(nextView);
-            setView(nextView);
+            setWorkspaceMode("cases");
+            setGeneratorStep("topics");
           }}
         />
       </MobileShell>
     );
   }
 
-  if (view === "home") {
-    return (
-      <MobileShell title={noteSegment === "kos" ? "KOS笔记" : "非KOS笔记"} subtitle="选择 SPU" onBack={back} tabs={shellTabs}>
-        <HomePage
-          noteSegment={noteSegment}
-          onSelect={(next) => {
-            setSpu(next);
-            setContentType("");
-            setTopic("");
-            setLastContentView("contentType");
-            setView("contentType");
-          }}
-        />
-      </MobileShell>
-    );
-  }
-
-  if (view === "contentType") {
-    return (
-      <MobileShell title={spu} subtitle="选择内容类型" onBack={back} tabs={shellTabs}>
-        <ContentTypePage
-          noteSegment={noteSegment}
-          spu={spu}
-          onSelect={(next) => {
-            setContentType(next);
-            setTopic("");
-            setLastContentView("topic");
-            setView("topic");
-          }}
-        />
-      </MobileShell>
-    );
-  }
-
-  if (view === "topic") {
+  if (generatorStep === "topics" && selectedSegment) {
     return (
       <MobileShell title={contentType} subtitle={`${spu} / 选择选题`} onBack={back} tabs={shellTabs}>
         <TopicPage
-          noteSegment={noteSegment}
+          noteSegment={selectedSegment}
           spu={spu}
           contentType={contentType}
           onCases={(next) => {
             setTopic(next);
-            setLastContentView("cases");
-            setView("cases");
+            setWorkspaceMode("cases");
+            setGeneratorStep("workspace");
           }}
           onGenerate={(next) => {
             setTopic(next);
-            setLastContentView("generate");
-            setView("generate");
+            setWorkspaceMode("generate");
+            setGeneratorStep("workspace");
           }}
         />
       </MobileShell>
     );
   }
 
-  if (view === "cases") {
+  if (generatorStep === "workspace" && selectedSegment) {
     return (
-      <MobileShell title="优质案例参考" subtitle={`${spu} / ${contentType} / ${topic}`} onBack={back} tabs={shellTabs}>
-        <CasesPage noteSegment={noteSegment} spu={spu} contentType={contentType} topic={topic} />
+      <MobileShell title="选题工作台" subtitle={`${spu} / ${contentType}`} onBack={back} tabs={shellTabs}>
+        <TopicWorkspacePage
+          noteSegment={selectedSegment}
+          spu={spu}
+          contentType={contentType}
+          topic={topic}
+          mode={workspaceMode}
+          onModeChange={setWorkspaceMode}
+        />
       </MobileShell>
     );
   }
 
   return (
-    <MobileShell title="AI 生文" subtitle={`${spu} / ${contentType} / ${topic}`} onBack={back} tabs={shellTabs}>
-      <GeneratePage noteSegment={noteSegment} spu={spu} contentType={contentType} topic={topic} />
+    <MobileShell title="内容生文" subtitle="选择品项和参考库" tabs={shellTabs}>
+      <ContentGeneratorPage
+        selectedSpu={spu}
+        selectedSegment={selectedSegment}
+        onSelectSpu={setSpu}
+        onSelectSegment={setSelectedSegment}
+        onSelectContentType={(nextContentType) => {
+          setContentType(nextContentType);
+          setTopic("");
+          setWorkspaceMode("cases");
+          setGeneratorStep("topics");
+        }}
+      />
     </MobileShell>
   );
 }

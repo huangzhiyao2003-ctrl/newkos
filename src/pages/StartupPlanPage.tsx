@@ -20,10 +20,8 @@ const teamLabels: Record<StartupTeamSize, string> = {
 
 export function StartupPlanPage({
   onUsePlan,
-  onSkip,
 }: {
   onUsePlan: (spu: string) => void;
-  onSkip: () => void;
 }) {
   const spus = getStartupSpus();
   const [selectedSpuId, setSelectedSpuId] = useState<StartupSpuId>(spus[0]?.id ?? "orthodontics");
@@ -106,13 +104,7 @@ export function StartupPlanPage({
           onClick={() => onUsePlan(plan.spu)}
           className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-clinical-teal px-4 py-3 text-base font-extrabold text-white shadow-[0_12px_30px_rgba(15,159,154,0.2)] transition active:scale-[0.99]"
         >
-          按这个品项进入生文流程 <ArrowRight size={18} />
-        </button>
-        <button
-          onClick={onSkip}
-          className="mt-2 inline-flex w-full items-center justify-center rounded-lg border border-clinical-line bg-white px-4 py-3 text-sm font-bold text-clinical-ink transition active:scale-[0.99]"
-        >
-          跳过规划，直接进入内容生文器
+          用这个品项进入内容生文 <ArrowRight size={18} />
         </button>
       </section>
     </div>

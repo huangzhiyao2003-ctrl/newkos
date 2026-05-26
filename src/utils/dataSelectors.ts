@@ -33,6 +33,17 @@ export function getSpus(noteSegment: NoteSegment): SpuItem[] {
   return sortByPriority(library.spu_list.filter((item) => item.note_segment === noteSegment));
 }
 
+export function getGeneratorSpus(): SpuItem[] {
+  const bySpu = new Map<string, SpuItem>();
+  for (const item of sortByPriority(library.spu_list)) {
+    const current = bySpu.get(item.spu);
+    if (!current || (item.recommendation_score ?? 0) > (current.recommendation_score ?? 0)) {
+      bySpu.set(item.spu, item);
+    }
+  }
+  return sortByPriority([...bySpu.values()]);
+}
+
 export function getContentTypes(noteSegment: NoteSegment, spu: string): ContentTypeItem[] {
   return sortByPriority(library.content_type_list.filter((item) => item.note_segment === noteSegment && item.spu === spu));
 }
