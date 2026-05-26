@@ -5,14 +5,16 @@ import { ContentTypePage } from "./pages/ContentTypePage";
 import { GeneratePage } from "./pages/GeneratePage";
 import { HomePage } from "./pages/HomePage";
 import { SegmentPage } from "./pages/SegmentPage";
+import { StartupPlanPage } from "./pages/StartupPlanPage";
 import { TopicPage } from "./pages/TopicPage";
 import type { NoteSegment } from "./types/content";
 
-type View = "segment" | "home" | "contentType" | "topic" | "cases" | "generate";
+type View = "startup" | "segment" | "home" | "contentType" | "topic" | "cases" | "generate";
 
 export default function App() {
-  const [view, setView] = useState<View>("segment");
+  const [view, setView] = useState<View>("startup");
   const [noteSegment, setNoteSegment] = useState<NoteSegment>("kos");
+  const [plannedSpu, setPlannedSpu] = useState("");
   const [spu, setSpu] = useState("");
   const [contentType, setContentType] = useState("");
   const [topic, setTopic] = useState("");
@@ -20,20 +22,44 @@ export default function App() {
   function back() {
     if (view === "generate" || view === "cases") setView("topic");
     else if (view === "topic") setView("contentType");
-    else if (view === "contentType") setView("home");
+    else if (view === "contentType") setView(plannedSpu ? "segment" : "home");
     else if (view === "home") setView("segment");
+    else if (view === "segment" && plannedSpu) setView("startup");
+  }
+
+  if (view === "startup") {
+    return (
+      <MobileShell title="口腔 KOS 起号助手" subtitle="起号规划">
+        <StartupPlanPage
+          onUsePlan={(nextSpu) => {
+            setPlannedSpu(nextSpu);
+            setSpu(nextSpu);
+            setContentType("");
+            setTopic("");
+            setView("segment");
+          }}
+          onSkip={() => {
+            setPlannedSpu("");
+            setSpu("");
+            setContentType("");
+            setTopic("");
+            setView("segment");
+          }}
+        />
+      </MobileShell>
+    );
   }
 
   if (view === "segment") {
     return (
-      <MobileShell title="口腔 KOS 内容生文器" subtitle="选择笔记入口">
+      <MobileShell title="内容生文器" subtitle={plannedSpu ? `${plannedSpu} / 选择参考库` : "选择参考库"} onBack={plannedSpu ? back : undefined}>
         <SegmentPage
           onSelect={(next) => {
             setNoteSegment(next);
-            setSpu("");
+            setSpu(plannedSpu);
             setContentType("");
             setTopic("");
-            setView("home");
+            setView(plannedSpu ? "contentType" : "home");
           }}
         />
       </MobileShell>

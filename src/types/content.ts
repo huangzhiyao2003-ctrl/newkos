@@ -130,3 +130,44 @@ export interface VideoStrategyLibrary {
   source_note: string;
   strategies: VideoStrategy[];
 }
+
+export type StartupSpuId = "orthodontics" | "veneer" | "implant";
+export type StartupTeamSize = "2" | "3" | "4" | "5";
+export type StartupStageId = "cold" | "verify" | "scale";
+
+export interface StartupStage {
+  title: string;
+  goal: string;
+  duration: string;
+  weekly: string;
+  main: string[];
+  secondary: string[];
+  avoid: string[];
+  roles: string[];
+  benchmark: string[];
+  signals: string[];
+  risks: string[];
+}
+
+export interface StartupTeamPlan {
+  count: string;
+  combo: string[];
+  duties: string[];
+  tips: string[];
+}
+
+export interface StartupPlanningItem {
+  id: StartupSpuId;
+  spu: string;
+  label: string;
+  tagline: string;
+  one_liner: string;
+  durations: Record<StartupStageId, string>;
+  tips: string[];
+  team_plans: Record<StartupTeamSize, StartupTeamPlan>;
+  stages: Record<StartupStageId, StartupStage>;
+}
+
+export interface StartupPlanningLibrary {
+  spus: StartupPlanningItem[];
+}

@@ -1,9 +1,23 @@
 import formulaLibrary from "../data/formula_library.json";
 import goodCases from "../data/good_cases.json";
-import type { ContentTypeItem, Formula, FormulaLibrary, GoodCaseGroup, NoteSegment, SegmentItem, SpuItem, TopicItem } from "../types/content";
+import startupPlanningLibrary from "../data/startup_planning_library.json";
+import type {
+  ContentTypeItem,
+  Formula,
+  FormulaLibrary,
+  GoodCaseGroup,
+  NoteSegment,
+  SegmentItem,
+  SpuItem,
+  StartupPlanningItem,
+  StartupPlanningLibrary,
+  StartupSpuId,
+  TopicItem
+} from "../types/content";
 
 export const library = formulaLibrary as FormulaLibrary;
 export const caseGroups = goodCases as GoodCaseGroup[];
+export const startupLibrary = startupPlanningLibrary as StartupPlanningLibrary;
 
 const priorityOrder = { P0: 0, P1: 1, P2: 2, P3: 3 };
 
@@ -33,4 +47,12 @@ export function getFormula(noteSegment: NoteSegment, spu: string, contentType: s
 
 export function getCases(noteSegment: NoteSegment, spu: string, contentType: string, topic: string): GoodCaseGroup | undefined {
   return caseGroups.find((item) => item.note_segment === noteSegment && item.spu === spu && item.content_type === contentType && item.topic === topic);
+}
+
+export function getStartupSpus(): StartupPlanningItem[] {
+  return startupLibrary.spus;
+}
+
+export function getStartupSpu(id: StartupSpuId): StartupPlanningItem {
+  return startupLibrary.spus.find((item) => item.id === id) ?? startupLibrary.spus[0];
 }

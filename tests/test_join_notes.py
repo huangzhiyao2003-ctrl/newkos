@@ -15,7 +15,8 @@ class JoinNotesTest(unittest.TestCase):
         joined = pd.read_csv(ROOT / "data/output/joined_notes.csv", dtype=object)
         content_ids = set(content["笔记id"].dropna().astype(str).str.strip())
         spend = spend.assign(_note_id=spend["笔记id"].dropna().astype(str).str.strip())
-        expected = spend[spend["_note_id"].isin(content_ids) & spend["是否KOS笔记"].isin([0, 1])]["_note_id"].drop_duplicates().shape[0]
+        kos_flag = spend["是否KOS笔记"].astype(str).str.strip()
+        expected = spend[spend["_note_id"].isin(content_ids) & kos_flag.isin(["0", "1"])]["_note_id"].drop_duplicates().shape[0]
         self.assertEqual(len(joined), expected)
         self.assertEqual(set(joined["note_segment"]), {"kos", "non_kos"})
 

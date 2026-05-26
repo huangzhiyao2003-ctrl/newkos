@@ -5,11 +5,11 @@ import { getSegments } from "../utils/dataSelectors";
 
 const segmentCopy: Record<NoteSegment, { description: string; action: string }> = {
   kos: {
-    description: "适合参考达人/KOS风格的内容结构，重点学习真实笔记里的标题、封面和正文表达。",
+    description: "适合参考达人型内容打法，重点学习真实笔记里的标题、封面和正文表达。",
     action: "进入 KOS 内容库",
   },
   non_kos: {
-    description: "适合参考普通账号或机构号的内容表达，用来补充更多选题角度和本地化写法。",
+    description: "适合参考机构号和普通账号表达，用来补充更多选题角度和本地化写法。",
     action: "进入非 KOS 内容库",
   },
 };
@@ -22,8 +22,8 @@ export function SegmentPage({ onSelect }: { onSelect: (segment: NoteSegment) => 
         <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-clinical-teal text-white">
           <Sparkles size={22} />
         </div>
-        <h2 className="text-2xl font-extrabold leading-8 text-clinical-ink">口腔 KOS 内容生文器</h2>
-        <p className="mt-2 text-sm leading-6 text-slate-600">先选择笔记入口，再查看对应的 SPU、内容类型、选题和案例。</p>
+        <h2 className="text-2xl font-extrabold leading-8 text-clinical-ink">选择内容参考库</h2>
+        <p className="mt-2 text-sm leading-6 text-slate-600">选择要参考的历史笔记类型，再进入品项、内容类型、选题和案例。</p>
         <div className="mt-4">
           <TrustBadges />
         </div>
