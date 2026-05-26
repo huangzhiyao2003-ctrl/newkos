@@ -124,11 +124,6 @@ function OverviewCard({ plan }: { plan: StartupPlanningItem }) {
     <section className="rounded-lg border border-white bg-white p-4 shadow-soft">
       <SectionTitle icon={<Sparkles size={18} />} title={`${plan.label}｜起号规划`} />
       <p className="text-sm font-bold leading-6 text-clinical-ink">{plan.tagline}</p>
-      {plan.tagline.includes("A+B") ? (
-        <p className="mt-2 rounded-lg bg-clinical-mist px-3 py-2 text-xs font-bold leading-5 text-clinical-teal">
-          A = 症状科普，B = 预约承接。
-        </p>
-      ) : null}
       <p className="mt-2 text-sm leading-6 text-slate-600">{plan.one_liner}</p>
       <div className="mt-4 grid grid-cols-3 gap-2">
         <Metric label="冷启动" value={plan.durations.cold} />
